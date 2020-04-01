@@ -1,0 +1,22 @@
+{
+  "name": "Vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "chalk": "^3.0.0",
+    "request": "^2.88.2",
+    "unirest": "^0.6.0",
+    "xregexp": "^4.2.4"
+  },
+  "devDependencies": {
+    "node-accuweather": "^1.7.0"
+  }
+}
